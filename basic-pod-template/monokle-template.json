@@ -1,10 +1,10 @@
 {
     "name": "Basic Kubernetes Pod",
-    "id": "com.github.mainak99.plugin.templates.basic-pod-template",
+    "id": "com.github.Mainak99.plugin.templates.basic-pod-template",
     "author": "Mainak Biswas",
     "version": "1.0.0",
     "description": "Create a Pod for a specified Image",
-    "repository": "com.github.mainak99.plugin.templates.basic-pod-template",
+    "repository": "com.github.Mainak99.plugin.templates.basic-pod-template",
     "type": "vanilla",
     "forms": [
         {
