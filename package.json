@@ -5,6 +5,8 @@
     "author": "Mainak Biswas",
     "repository": "https://github.com/Mainak99/monokle-templete-plugin.git",
     "monoklePlugin": {
+        "id": "com.github.mainak99.plugin.templates",
+        "helpUrl": "https://github.com/Mainak99/monokle-templete-plugin.git",
         "modules": [
             {
                 "type": "template",
