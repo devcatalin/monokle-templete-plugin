@@ -2,7 +2,7 @@
     "type": "object",
     "required": [
         "name",
-        "images"
+        "image"
     ],
     "properties":{
         "name": {
