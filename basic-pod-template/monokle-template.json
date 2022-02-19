@@ -1,0 +1,24 @@
+{
+    "name": "Basic Kubernetes Pod",
+    "id": "com.github.mainak99.plugin.templates.basic-pod-template",
+    "author": "Mainak Biswas",
+    "version": "1.0.0",
+    "description": "Create a Pod for a specified Image",
+    "repository": "",
+    "type": "vanilla",
+    "forms": [
+        {
+            "name":"Pod Settings",
+            "description": "Specify the settings for your Pod",
+            "schema": "form-schema.json",
+            "uiSchema": "form-ui-schmea.json"
+        }
+    ],
+    "manifest": [
+        {
+            "filePath": "template.yaml"
+        }
+    ],
+    "resultMessage": "Pod resource created successfully!",
+    "helpUrl": "https://github.com/Mainak99/monokle-templete-plugin.git"
+}
