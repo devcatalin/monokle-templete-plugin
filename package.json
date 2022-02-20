@@ -3,10 +3,10 @@
     "description":"Custom templates plugin",
     "version": "1.0.0",
     "author": "Mainak Biswas",
-    "repository": "https://github.com/Mainak99/monokle-templete-plugin.git",
+    "repository": "https://github.com/Mainak99/monokle-templete-plugin",
     "monoklePlugin": {
-        "id": "com.github.Mainak99.plugin.templates",
-        "helpUrl": "https://github.com/Mainak99/monokle-templete-plugin.git",
+        "id": "com.Mainak99.plugin.templates",
+        "helpUrl": "https://github.com/Mainak99/monokle-templete-plugin",
         "modules": [
             {
                 "type": "template",
