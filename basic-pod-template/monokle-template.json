@@ -4,7 +4,7 @@
     "author": "Mainak Biswas",
     "version": "1.0.0",
     "description": "Create a Pod for a specified Image",
-    "repository": "com.github.Mainak99.plugin.templates.basic-pod-template",
+    "repository": "",
     "type": "vanilla",
     "forms": [
         {
