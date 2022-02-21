@@ -14,7 +14,7 @@
             "uiSchema": "form-ui-schmea.json"
         }
     ],
-    "manifest": [
+    "manifests": [
         {
             "filePath": "template.yaml"
         }
